@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Matty06
 - 👀 I’m interested in frontend & photography
-- 🌱 I’m currently learning React, Redux
+- 🌱 I’m currently learning Svelte
 - 🛠️ Tech stack: HTML, CSS, SCSS, Gulp, JavaScript, React, Latte, Twig
